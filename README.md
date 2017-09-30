@@ -1,2 +1,6 @@
 # AstronautTraining
 KSP Contract Pack
+
+Use science points to train your kerbal astronauts, at a rate of 1 XP for 5 science (and 1000 funds). Training requires one higher level kerbal to act as an instructor to a lower level kerbal. Don't worry if you don't have any higher level kerbals, this mod offers you the option of hiring level 5 instructors (at a cost of science and funds) once you reach a certain prestige level. Training requires a Level 3 Astronaut Complex and a Level 2 Research and Development facility, as well as a Science Lab on the station or base being trained at. Training only takes place inside the Kerbin system, but occurs faster if you're in orbit of Kerbin or its moons, and even faster if you're lander on the Mun or Minmus.
+
+At this time, only contracts for hiring instructors, single kerbal basic training (training a kerbal up one level), and intensive training (training a kerbal up all the way to level 5 in one go, at slightly higher cost but also slightly faster speed) are included, although I intend to add group basic training as well. Also planned are ways to accelerate training by including specialization specific parts on training facilities (like cupolas for pilots, resource equipment for engineers, and science experiments for scientists).
