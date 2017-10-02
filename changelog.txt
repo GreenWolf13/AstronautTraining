@@ -1,0 +1,13 @@
+v0.2.0 (Leonov)
+
+- Increased science cost of hiring instructors to 330
+- Added a cap to the funds cost of hiring instructors
+- Added group basic training contracts
+- Reorganized the contract groups for basic training contracts
+- Fixed issue where the MoonStation parameters were checking for a Base vessel type
+- Fixed issue where the MoonStation and MoonBase durations were reversed from what the should be
+- Culled trailing full stops from the ends of contract requirement descriptions
+
+v0.1.0 (Komarov)
+
+- Initial release
